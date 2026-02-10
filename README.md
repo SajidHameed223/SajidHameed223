@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning , Competitive Programming and Next.js<br>👯 I’m looking to collaborate in Hackathons and Coding Competitions.<br>
+🔭 I’m currently working on  Next.js , ERP Software Machine Learning and Competitive Programming ,<br>👯 I’m looking to collaborate in Hackathons and Coding Competitions.<br>
 
 
 ## 🌐 Socials:
@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SajidHameed223&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
