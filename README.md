@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Next.js , ERP Software Machine Learning and Competitive Programming ,<br>👯 I’m looking to collaborate in Hackathons and Coding Competitions.<br>
+🔭 I’m currently working on  Next.js, ERP Software, Machine Learning and Competitive Programming.<br>👯 I’m looking to collaborate in Hackathons and Coding Competitions.<br>
 
 
 ## 🌐 Socials:
