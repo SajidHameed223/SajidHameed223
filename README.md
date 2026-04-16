@@ -13,8 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHameed223&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SajidHameed223&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=SajidHameed223&theme=onedark&margin-w=10&margin-h=10&no-frame=true&v=2)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SajidHameed223&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
